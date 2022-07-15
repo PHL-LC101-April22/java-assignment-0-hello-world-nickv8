@@ -1,6 +1,8 @@
 /**
  * Created by LaunchCode
  */
+
+import java.util.Scanner;
 public class HelloWorld {
 
     public static void main(String[] args) {
@@ -8,7 +10,7 @@ public class HelloWorld {
     }
 
     public static String sayHello() {
-        return "";
+        return "Hello, World!";
     }
 
 }
